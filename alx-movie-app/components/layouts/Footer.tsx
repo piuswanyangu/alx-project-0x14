@@ -1,1 +1,3 @@
-// not empty
+// not 
+
+export default Footer ;
