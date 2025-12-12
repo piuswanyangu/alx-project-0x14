@@ -1,3 +1,0 @@
-// not 
-
-export default Footer ;
